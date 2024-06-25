@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-python:3.8.19-slim-bookworm
+gcr.io/k8s-minikube/kicbase:v0.0.44
