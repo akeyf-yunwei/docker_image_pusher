@@ -5,8 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-dolphinscheduler.docker.scarf.sh/apache/dolphinscheduler-alert-server:3.2.2
-dolphinscheduler.docker.scarf.sh/apache/dolphinscheduler-api:3.2.2
-dolphinscheduler.docker.scarf.sh/apache/dolphinscheduler-master:3.2.2
-dolphinscheduler.docker.scarf.sh/apache/dolphinscheduler-tools:3.2.2
-dolphinscheduler.docker.scarf.sh/apache/dolphinscheduler-worker:3.2.2
+apache/skywalking-oap-server:9.7.0
