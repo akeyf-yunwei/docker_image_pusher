@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-apache/skywalking-ui:9.7.0
+gogs/gogs:latest
