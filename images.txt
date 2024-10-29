@@ -5,6 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-grafana/loki:3.1.0
-grafana/alloy:v1.4.3
-grafana/grafana:11.3.0
+rust-build:1.80
+alpine:3.14.2
