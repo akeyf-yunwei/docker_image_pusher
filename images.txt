@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-mingrammer/flog:0.4.3
+rancher/mirrored-pause:3.6
