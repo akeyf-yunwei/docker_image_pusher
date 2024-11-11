@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-redis:5.0.14
+docker.dragonflydb.io/dragonflydb/dragonfly
