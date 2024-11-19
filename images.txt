@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-gogs/gogs:0.13.0
+docker.redpanda.com/redpandadata/redpanda:v24.2.10
