@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-docker.redpanda.com/redpandadata/redpanda:v24.2.10
+docker.redpanda.com/redpandadata/console:v2.7.2
