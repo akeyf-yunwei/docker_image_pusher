@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-apache/apisix:last
+gists/nfs-server:2.6.4
