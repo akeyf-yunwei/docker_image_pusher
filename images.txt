@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-gists/nfs-server:2.6.4
+goharbor/prepare:v2.12.1
