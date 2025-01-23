@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-openjdk:17.0.2-buster
+nginx:1.15.6-alpine
