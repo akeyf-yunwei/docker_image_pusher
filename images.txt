@@ -5,5 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-tomcat:8.0.53
-tomcat:9.0.104-jre8
+tomcat:8.5.100-jdk8
+tomcat:9.0.104-jdk8
