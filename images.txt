@@ -5,5 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-apache/apisix:3.13.0-debian
-apache/apisix:3.11.0-debian
+openjdk:21-jdk-slim
