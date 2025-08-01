@@ -5,4 +5,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-openjdk:21-jdk-slim
+postgres:16
+postgres:15
+postgres:14
+postgres:13
