@@ -5,5 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-n8nio/n8n:1.123.4
-n8nio/n8n:2.0.0
+prom/prometheus:v3.8.0
