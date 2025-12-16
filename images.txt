@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-rancher/rancher:v2.13.0
+redis:6.2.21-bookworm
