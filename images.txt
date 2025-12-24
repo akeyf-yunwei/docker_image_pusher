@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-greatsql/greatsql:8.4.4-4
+greatsql/greatsql:8.0.32-27
