@@ -5,5 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-mysql:8.0.44-debian
-
+greatsql/greatsql:8.4.4-4
