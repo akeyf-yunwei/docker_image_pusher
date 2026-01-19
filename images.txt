@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-danger89/cmake:bookworm-cppcheck-2.19.0
+grafana/tempo:v2.9.0
