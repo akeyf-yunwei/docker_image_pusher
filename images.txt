@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-rancher/rancher:v2.14.0
+signalwire/freeswitch:1.10.12
