@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-signalwire/freeswitch:1.10.12
+gitlab/gitlab-ce:17.2.0-ce.0
